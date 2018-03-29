@@ -1,0 +1,3 @@
+# ignore credential files
+*.crt
+*.key
